@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yushan Pan(潘玉山).
-- 👀 I’m interested in Nothing.
-- 🌱 I’m currently learning self-supervised learning and rotated object detection in remote sensing. 
-- 📫 How to reach me? Email:panyushan_cn@126.com
+- 👋 Hi, I’m Yushan Pan, you can also call me Jade.
+- 👀 I’m interested in keypoint-based oriented object detection and deep learning.
+- 🌱 I’m currently pursuing the M.Sc. degree in NUST, Nanjing.
+- 📫 How to reach me? Email:panyushan_cn@126.com.
 
 <!---
 panyushan-cn/panyushan-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
